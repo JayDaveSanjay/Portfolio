@@ -4,7 +4,7 @@ import { SiLeetcode } from "react-icons/si";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
 import Image from "next/image";
-import deved from "../public/Profile.jpg";
+import deved from "../public/Profile.JPG";
 import code from "../public/code.png";
 import design from "../public/design.png";
 import consulting from "../public/consulting.png";
