@@ -135,16 +135,16 @@ export default function Home() {
           <div>
             <h3 className="text-3xl py-1 dark:text-white ">Portofolio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Since the beginning of my journey as a freelance designer and
+              Since the beginning of my journey as a freelance designer &apos;
               developer, I've done remote work for
               <span className="text-teal-500"> agencies </span>
               consulted for <span className="text-teal-500">startups </span>
-              and collaborated with talanted people to create digital products
+              &apos; collaborated with talanted people to create digital products
               for both business &apos; consumer use.
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               I offer from a wide range of services, including brand design,
-              programming and teaching.
+              programming &apos; teaching.
             </p>
           </div>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
@@ -249,7 +249,7 @@ export default function Home() {
           <div className="mt-6 border-t border-gray-200 dark:border-gray-700 pt-6 text-sm text-gray-600 dark:text-gray-400 text-center md:text-left">
             <p>&copy; {new Date().getFullYear()} Jay Dave. All rights reserved.</p>
             <p>
-              Built with <span className="text-teal-500">Next.js</span> and <span className="text-teal-500">Tailwind CSS</span>.
+              Built with <span className="text-teal-500">Next.js</span> &apos; <span className="text-teal-500">Tailwind CSS</span>.
             </p>
           </div>
         </div>
